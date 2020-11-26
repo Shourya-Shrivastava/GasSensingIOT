@@ -4,4 +4,4 @@ Arduino Uno based IOT Project to create bot for sensing any gas leak and maintai
 
 ![alt image](pic.png)
 
-Check out how it will work [here](vid.mp4)
+Check out how it will work- Please download the demo video from [here](vid.mp4)
